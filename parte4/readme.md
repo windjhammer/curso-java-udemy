@@ -1,5 +1,20 @@
-# Exercício da seção 4 do curso de java
+# Repositório com os exercícios da seção 4 do curso de Java
+
+## Formatando dados
 
 Nesse exercício foi proposto usar as variáveis fornecidas para imprimir os dados seguindo um certo padrão.
 
-![img](/img.png)
+![img](/parte4/exercicio0.png)
+
+## Exercicio 1
+
+Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa, conforme exemplos.
+
+![img](/parte4/exercicio1.png)
+
+## Exercício 2
+
+Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
+
+![img](/parte4/exercicio2.png)
+
