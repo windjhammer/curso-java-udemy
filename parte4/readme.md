@@ -23,3 +23,6 @@ Faça um programa para ler o valor do raio de um círculo, e depois mostrar o va
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 
 ![img](/parte4/exercicio3.png)
+
+## Exercício 4
+
