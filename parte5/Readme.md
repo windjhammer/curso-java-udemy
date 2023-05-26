@@ -31,3 +31,9 @@ Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sa
 Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo,sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
 
 ![img](/parte5/exercicio4.png)
+
+## Exercício 5
+
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+
+![img](/parte5/exercicio5.png)
