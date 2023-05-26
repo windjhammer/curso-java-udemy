@@ -18,4 +18,4 @@ Fazer um programa para ler um número inteiro, e depois dizer se este número é
 
 Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
 
-![img](parte5/exercicio2.png)
+![img](/parte5/exercicio2.png)
