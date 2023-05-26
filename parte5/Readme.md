@@ -25,3 +25,9 @@ Fazer um programa para ler um número inteiro e dizer se este número é par ou 
 Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em  ordem crescente ou decrescente.
 
 ![img](/parte5/exercicio3.png)
+
+## Exercício 4
+
+Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo,sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
+
+![img](/parte5/exercicio4.png)
