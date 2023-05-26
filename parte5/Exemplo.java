@@ -18,5 +18,6 @@ public class Exemplo{
         else{
             System.out.printf("NOTA FINAL = %.1f%n", media);
         }
+        sc.close();
     }
 }
