@@ -5,11 +5,11 @@ public class ExerciciosIniciantes5 {
         
         Scanner sc = new Scanner(System.in);
 
-        int codigo1 = sc.nextInt();
+        //int codigo1 = sc.nextInt();
         int quantidade1 = sc.nextInt();
         double valor1 = sc.nextDouble();
 
-        int codigo2 = sc.nextInt();
+        //int codigo2 = sc.nextInt();
         int quantidade2 = sc.nextInt();
         double valor2 = sc.nextDouble();
 
