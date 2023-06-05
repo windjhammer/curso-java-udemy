@@ -39,3 +39,9 @@ Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seg
 Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal. Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.
 
 ![img](/parte6/exercicio06.png)
+
+### Exercício 07
+
+Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem divisao impossivel".
+
+![img](/parte6/exercicio07.png)
