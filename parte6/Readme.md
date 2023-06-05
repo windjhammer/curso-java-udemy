@@ -51,3 +51,9 @@ Fazer um programa para ler um número N. Depois leia N pares de números e mostr
 Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N \* (N-1) \* (N-2) \* (N-3) \* ... \* 1. Lembrando que, por definição, fatorial de 0 é 1.
 
 ![img](/parte6/exercicio08.png)
+
+### Exercício 09
+
+Ler um número inteiro N e calcular todos os seus divisores.
+
+![img](/parte6/exercicio09.png)
