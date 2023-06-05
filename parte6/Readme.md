@@ -45,3 +45,9 @@ Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seg
 Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem divisao impossivel".
 
 ![img](/parte6/exercicio07.png)
+
+### Exercício 08
+
+Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N \* (N-1) \* (N-2) \* (N-3) \* ... \* 1. Lembrando que, por definição, fatorial de 0 é 1.
+
+![img](/parte6/exercicio08.png)
