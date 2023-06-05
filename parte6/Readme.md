@@ -57,3 +57,9 @@ Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N \
 Ler um número inteiro N e calcular todos os seus divisores.
 
 ![img](/parte6/exercicio09.png)
+
+### Exercício 10
+
+Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
+
+![img](/parte6/exercicio10.png)
