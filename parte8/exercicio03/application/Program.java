@@ -2,8 +2,6 @@ package parte8.exercicio03.application;
 
 import java.util.Scanner;
 
-import javax.annotation.processing.SupportedAnnotationTypes;
-
 import parte8.exercicio03.entities.Student;
 
 public class Program {
