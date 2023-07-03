@@ -1,4 +1,4 @@
-package entities;
+package parte9;
 public class Cliente {
   private int conta;
   private String titular;
