@@ -1,5 +1,4 @@
-package application;
-import entities.Cliente;
+package parte9;
 import java.util.Scanner;
 public class Program {
   public static void main(String[] args) {
