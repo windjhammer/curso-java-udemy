@@ -1,4 +1,4 @@
-
+package entities;
 public class Cliente {
   private int conta;
   private String titular;
@@ -39,7 +39,7 @@ public class Cliente {
   }
   public String toString(){
     return "Account"
-    + numero
+    + conta
     + ", Holder: "
     + titular
     + ", Saldo: $"

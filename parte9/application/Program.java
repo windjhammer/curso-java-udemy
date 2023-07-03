@@ -1,4 +1,5 @@
-import Cliente;
+package application;
+import entities.Cliente;
 import java.util.Scanner;
 public class Program {
   public static void main(String[] args) {
@@ -8,7 +9,7 @@ public class Program {
     int numero = sc.nextInt();
     System.out.print("Enter account holder: ");
     sc.nextLine();
-    String saldo = sc.nextLine();
+    String titular = sc.nextLine();
     System.out.print("Is there an initial deposit? (y/n)");
     char resposta = sc.next().charAt(0);
     if (resposta == 'y'){
@@ -22,7 +23,20 @@ public class Program {
     System.out.println();
     System.out.println("Account data: ");
     System.out.println(conta);
-    
+
+    System.out.println();
+    System.out.println("Enter a deposit value: ");
+    double valorDeposito = sc.nextDouble();
+    conta.deposito(valorDeposito);
+    System.out.println("Updated account data: ");
+    System.out.println(conta);
+
+    System.out.println();
+    System.out.println("Enter a withdraw value: ");
+    double valorSaque = sc.nextDouble();
+    conta.saque(valorSaque);
+    System.out.println("Updated account data: ");
+    System.out.println(conta);
     sc.close();
   }
 }
