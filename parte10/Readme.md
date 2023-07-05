@@ -10,3 +10,7 @@ Faça um programa que leia N números reais e armazene-os em um vetor. Em seguid
 
 - Imprimir todos os elementos do vetor
 - Mostrar na tela a soma e a média dos elementos do vetor
+
+## [Alturas](Alturas.java)
+
+Fazer um programa para ler nome, idade e altura de N pessoas, conforme exemplo. Depois, mostrar na tela a altura média das pessoas, e mostrar também a porcentagem de pessoas com menos de 16 anos, bem como os nomes dessas pessoas caso houver.
