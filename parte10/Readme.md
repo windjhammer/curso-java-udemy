@@ -1,5 +1,1 @@
 # Vetores e Listas
-
-
-
-
