@@ -45,6 +45,14 @@ Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas q
 
 ## [Dados Pessoas](dadosPessoas.java)
 
-Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número de homens.
+Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas.
+Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número de homens.
+
+## [Pensionato](Pensionato.java)
+
+A dona de um pensionato possui dez quartos para alugar para estudantes, sendo esses quartos identificados pelos números de 0 a 9.
+Fazer um programa que inicie com todos os dez quartos vazios, e depois leia uma quantidade N representando o número de estudantes que vão alugar quartos (N pode ser de 1 a 10).
+Em seguida, registre o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9).
+Suponha que seja escolhido um quarto vago. Ao final, seu programa deve imprimir um relatório de todas as ocupações do pensionato, por ordem de quarto.
 
 
