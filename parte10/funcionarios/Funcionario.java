@@ -41,5 +41,14 @@ public class Funcionario {
     public void setSalario(Double salario) {
         this.salario = salario;
     }
+    public void aumentoDeSalario(double porcentagem){
+    salario += salario*porcentagem/100.0;
+  }
+
+  @Override
+  
+  public String toString(){
+    return id + ", " + nome + ", " + String.format("%.2f", salario);
+  }
     
 }
