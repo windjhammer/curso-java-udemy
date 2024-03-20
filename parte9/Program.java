@@ -1,5 +1,7 @@
 package parte9;
+
 import java.util.Scanner;
+
 public class Program {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -11,12 +13,11 @@ public class Program {
     String titular = sc.nextLine();
     System.out.print("Is there an initial deposit? (y/n)");
     char resposta = sc.next().charAt(0);
-    if (resposta == 'y'){
+    if (resposta == 'y') {
       System.out.print("Enter the initial deposit value: ");
       double depositoInicial = sc.nextDouble();
       conta = new Cliente(numero, titular, depositoInicial);
-    }
-    else {
+    } else {
       conta = new Cliente(numero, titular);
     }
     System.out.println();
